@@ -1,0 +1,74 @@
+button {
+    display: inline-block;
+    height: 200px;
+    margin: 40px;
+    vertical-align: top;
+    width: 120px;
+    font-size: 18px;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: bold;
+}
+
+
+#Pygoscelis-papua {
+    background-image: url("https://live.staticflickr.com/3074/3112686561_6396291634_b.jpg");
+    background-position: center;
+    background-size: 150%;
+    color: blue;
+
+}
+
+#Pygoscelis-antarcticus{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg");
+    background-position: center;
+    background-size: 150%;
+    color: green;
+}
+
+#Aptenodytes-forsteri {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg");
+    background-position: center;
+    background-size: 130%;
+    color: red;
+}
+
+#Pygoscelis-adeliae {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg/400px-Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg");
+    background-position: center;
+    background-size: 130%;
+    color: purple;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+
+}
+
+#intro{
+    font-family: 'Lora', serif;
+}
+
+#intro-blurb{
+    font-size: 22px;
+}
+
+#instructions-blurb {
+    font-size: 20px;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+#key {
+    font-size: 22px;
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+
+#title-key {
+    font-size: 25px;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+
+
+
